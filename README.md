@@ -26,16 +26,7 @@
 **Tools:** Git · Docker · Postman · Figma · Vite · Vercel
 **Also:** Python · pandas · scikit-learn ([data science projects](https://github.com/Omraje101/Data-Science-Projects))
 
-### 🏆 Highlights
 
-- 🥇 Winner — **5X AI Prompt Battle**, an AI-powered web development competition
-- 🥈 Runner-up — Spectrum Tech Event, PCCOE
-- 💼 Data Science Intern — Cognifyz Technologies (2025)
-- 🧩 100+ DSA problems solved on LeetCode
-
-### 🌱 Currently
-
-Building a marketplace app from scratch — MVP in progress.
 
 ---
 <p align="center"><i>Open to full-stack developer roles and freelance work — let's talk!</i></p>
